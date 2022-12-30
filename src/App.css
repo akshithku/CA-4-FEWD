@@ -1,0 +1,20 @@
+.click{
+    background-color: rgb(14, 13, 13);
+    color: #fff;
+    height: 30px;
+    width: 70px;
+    font-weight: 700;
+    margin-left: 70%;
+    margin-top: 1%;
+    border-radius: 20px;
+    cursor: pointer;
+}
+/* .div{
+    margin-left: 10%;
+    margin-top: 1%;
+} */
+.h1{
+    text-align: center;
+    margin-right: 20%;
+    color: rgb(177, 175, 175);
+}
